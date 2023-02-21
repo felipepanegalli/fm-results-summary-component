@@ -2,7 +2,7 @@
 
 [![Latest Stable Version](https://badgen.net/badge/Vue/3.0+/green)](https://badgen.net/packagist/lang/vue)
 
-<!-- <img src="./assets/images/cover.png" alt="capa do projeto" /> -->
+![Design preview for the Results summary component coding challenge](./docs/design/desktop-preview.jpg)
 <p><a href="https://www.frontendmentor.io/" target="_blank">Layout desenvolvido por Frontend Mentor</a></p>
 
 
